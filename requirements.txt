@@ -2,3 +2,5 @@ sqlalchemy
 flask
 flask-socketio
 Flask-Migrate
+Flask-SQLAlchemy
+gevent
