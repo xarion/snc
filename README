@@ -1,2 +1,4 @@
-have pip installed on your machine
+Swipe And Chill server application. 
+
+have `pip` installed on your machine
 pip install -r requirements.txt will install the requirements.
